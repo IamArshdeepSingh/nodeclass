@@ -65,14 +65,25 @@
 
 // WAP to find kilometer to meter 
 
-const chd=require('readline-sync')
-var km ,m 
+// const chd=require('readline-sync')
+// var km ,m 
 
-km=chd.questionInt('enter the kilometer value')
+// km=chd.questionInt('enter the kilometer value')
 
-m=km*1000
+// m=km*1000
 
-console.log('The value of meter is: ',m)
+// console.log('The value of meter is: ',m)
+
+// const chd=require('readline-sync')
+// var km ,miles 
+
+// km=chd.questionInt('enter the kilometer value')
+
+// miles=km*0.62137119 
+
+// console.log('The value of miles is: ',miles)
+
+
 
 
 
