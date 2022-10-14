@@ -82,23 +82,3 @@
 // miles=km*0.62137119 
 
 // console.log('The value of miles is: ',miles)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
