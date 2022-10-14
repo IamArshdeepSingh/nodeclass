@@ -35,10 +35,4 @@ b=chd.questionInt('Enter your second value')
 c=a+b
 console.log("sum is",+c) */
 
-// const chd=require('readline-sync')
-// var a 
-// a=chd.questionInt('enter your first value')
-
-// C = 5/9 x (F-32)
-// console.log
 
